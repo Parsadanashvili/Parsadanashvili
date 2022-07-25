@@ -8,7 +8,6 @@ I'm Nika Parsadanashvili, 15 years old, who loves coding, A passionate fullstack
 * 👀 Last project I made is **[PHP MVC framework](https://github.com/Parsadanashvili/MVC)**.
 * 🌱 I’m currently learning **Typescript**
 * 📫 How to reach me **nikaparsadanashvili@gmail.com**
-* 
 
 ![](https://komarev.com/ghpvc/?username=parsadanashvili&style=flat&color=000000)
  
