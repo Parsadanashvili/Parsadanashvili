@@ -4,7 +4,7 @@
 
 I'm Nika Parsadanashvili, 15 years old, who loves coding, A passionate fullstack developer from Georgia
 
-* 🔭 I'm Currently working as **Full Stack** developer at **Sprenty**
+* 🔭 I'm Currently working as **Full Stack** developer at **Sportall**
 * 👀 Last project I made is **[PHP MVC framework](https://github.com/Parsadanashvili/MVC)**.
 * 🌱 I’m currently learning **Typescript**
 * 📫 How to reach me **nikaparsadanashvili@gmail.com**
