@@ -2,11 +2,10 @@
  <h1>Hello There 👋🏻</h1>
 </div> 
 
-I'm Nika Parsadanashvili, 15 years old, who loves coding, A passionate fullstack developer from Georgia
+I'm Nika Parsadanashvili, 16 years old, who loves coding, A passionate fullstack developer from Georgia
 
 * 🔭 I'm Currently working as **Full Stack** developer at **Sportall**
 * 👀 Last project I made is **[PHP MVC framework](https://github.com/Parsadanashvili/MVC)**.
-* 🌱 I’m currently learning **Typescript**
 * 📫 How to reach me **nikaparsadanashvili@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=parsadanashvili&style=flat&color=000000)
@@ -41,13 +40,13 @@ I'm Nika Parsadanashvili, 15 years old, who loves coding, A passionate fullstack
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 ### Going To Learn
 
   <div>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
 
 ### Social Medias
